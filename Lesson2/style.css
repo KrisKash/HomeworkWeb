@@ -13,6 +13,9 @@ h3 {
     font-family: 'You2013';
     color: rgb(129, 5, 246);
 }
+img {
+    width: 500px;
+}
 @font-face {
 	font-family: 'Sunday';
 	src: url('/Users/a1/Documents/HomeWorkWeb/Lesson2/ee44e7e2398fc66c9b779b09303d7092/fonts/sunday.eot'); /* IE 9 Compatibility Mode */
