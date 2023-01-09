@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(21, 21, 185);
+    font-family: 'Sunday';
+}
+h2 {
+    color: blue;
+    font-family: 'Sunday';
+}
+body {
+    background-color: rgb(252, 252, 154);
+}
+h3 {
+    font-family: 'You2013';
+    color: rgb(129, 5, 246);
+}
+@font-face {
+	font-family: 'Sunday';
+	src: url('/Users/a1/Documents/HomeWorkWeb/Lesson2/ee44e7e2398fc66c9b779b09303d7092/fonts/sunday.eot'); /* IE 9 Compatibility Mode */
+	src: url('/Users/a1/Documents/HomeWorkWeb/Lesson2/ee44e7e2398fc66c9b779b09303d7092/fonts/sunday.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/ee44e7e2398fc66c9b779b09303d7092/fonts/sunday.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/ee44e7e2398fc66c9b779b09303d7092/fonts/sunday.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/ee44e7e2398fc66c9b779b09303d7092/fonts/sunday.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/ee44e7e2398fc66c9b779b09303d7092/fonts/sunday.svg#sunday') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+@font-face {
+	font-family: 'You2013';
+	src: url('/Users/a1/Documents/HomeWorkWeb/Lesson2/088ac2b05068753f89753ec66f38c648/fonts/you2013.eot'); /* IE 9 Compatibility Mode */
+	src: url('/Users/a1/Documents/HomeWorkWeb/Lesson2/088ac2b05068753f89753ec66f38c648/fonts/you2013.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/088ac2b05068753f89753ec66f38c648/fonts/you2013.woff2') format('woff2'), /* Super Modern Browsers */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/088ac2b05068753f89753ec66f38c648/fonts/you2013.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/088ac2b05068753f89753ec66f38c648/fonts/you2013.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('/Users/a1/Documents/HomeWorkWeb/Lesson2/088ac2b05068753f89753ec66f38c648/fonts/you2013.svg#you2013') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+
+
+
